@@ -9,5 +9,12 @@ const getById = () => {
 }
 
 const create = () => {
-  const [id]
+  
+}
+
+
+module.exports = {
+  getAll,
+  getById,
+  create,
 }
